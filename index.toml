@@ -10,16 +10,6 @@ hash = "c4028ca7f03cf6c3138a8c5cdcbea9418026d4d487608b4d42feebb481204f76"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "dfffedda4233bede8ba87164c925631fa4b383e293bbc740ed32f7b9c89595ca"
-metafile = true
-
-[[files]]
-file = "mods/disable-portal-checks.pw.toml"
-hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
 metafile = true
@@ -35,11 +25,6 @@ hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
-metafile = true
-
-[[files]]
 file = "mods/ledger.pw.toml"
 hash = "052f06542206356664307ad7f73ef7d37123da055dc362f13cfe76839afdb73a"
 metafile = true
@@ -47,11 +32,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "61aa9b01e640b442a552057046f914e11aefa5b24ebbeb0a5bde1f310c769a91"
-metafile = true
-
-[[files]]
-file = "mods/moonrise.pw.toml"
-hash = "2a1a89fa0b85cbe770ce0d05dd105aecdea621dab0ed37562aadc42070deae85"
 metafile = true
 
 [[files]]
@@ -65,11 +45,6 @@ hash = "43fbc9b70f49998be45314b9b557e925988825a204190be01ccbae5cc2df74df"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "c1166e4664aa67501d4daafac5e69cb29094dd46942d35e64b4d5d8a0a54decd"
 metafile = true
@@ -77,9 +52,4 @@ metafile = true
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "54bc812ffd22a9cd2ab6f04aeff01deacf242cf83f68e71ac36ecb2e214b3fd0"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "d2752b3cfcd51f39bd6d094244e915b6c4c73010fa2d9504e1eddc331d2a7335"
 metafile = true
