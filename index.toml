@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "694129abb574e6e6de78a01a91be2c25ea623dd66dfef056bc016a00c202af11"
+
+[[files]]
 file = "mods/auth.pw.toml"
 hash = "c4028ca7f03cf6c3138a8c5cdcbea9418026d4d487608b4d42feebb481204f76"
 metafile = true
@@ -16,8 +20,13 @@ hash = "c89e8ce7c142eed4d781bf9acf8a392dd9f741430ca878fc6afc38f5c63a00b3"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet.pw.toml"
-hash = "55a0b6717ca1943aeebb36491d46b4b90697b433afd57f58b63564e747746b45"
+file = "mods/fabric-api.pw.toml"
+hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -37,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+hash = "61aa9b01e640b442a552057046f914e11aefa5b24ebbeb0a5bde1f310c769a91"
 metafile = true
 
 [[files]]
@@ -48,16 +57,6 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "b8b925bbefd017018fa7e29feb14130698b5a9b977383e2a7b1a3386fb45ff55"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "debb3cd3f17e14a880884b2ad9997df1956c2bb5ff1c0d88ee86aedf6ab0d7f4"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "11ea52b9a710505804ee19c935a40736677c9391cfdf14ca46cfed5fd917aa0d"
 metafile = true
 
 [[files]]
@@ -82,5 +81,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "158242203ca5ed82f7c2628f0c2ec05c94a93d6102a8fd88a21aa9fe30afee76"
+hash = "d2752b3cfcd51f39bd6d094244e915b6c4c73010fa2d9504e1eddc331d2a7335"
 metafile = true
