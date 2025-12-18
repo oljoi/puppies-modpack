@@ -1,0 +1,16 @@
+name = "puppies"
+author = "oljoi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "68766ead490bcc5a004a95ae9eaaa4d513f80d762cde8c498c687f03c79d97ca"
+
+[versions]
+minecraft = "1.21.11"
+quilt = "0.30.0-beta.0"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.10"]

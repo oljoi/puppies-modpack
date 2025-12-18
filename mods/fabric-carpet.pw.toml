@@ -1,0 +1,15 @@
+name = "fabric-carpet"
+filename = "fabric-carpet-26.1-beta-1+v251217.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gnembon/fabric-carpet/releases/download/v26.1-beta-1/fabric-carpet-26.1-beta-1%2Bv251217.jar"
+hash-format = "sha256"
+hash = "73069e218c9dd7e2c230806c44788418b4c5956b31169c98fed8fd8d2acf9da2"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "gnembon/fabric-carpet"
+tag = "v26.1-beta-1"
