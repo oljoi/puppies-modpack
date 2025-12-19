@@ -1,0 +1,13 @@
+name = "Automatic Operator"
+filename = "automaticoperator-1.21.11-1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wmbF3trP/versions/hSqonQQT/automaticoperator-1.21.11-1.5.jar"
+hash-format = "sha512"
+hash = "f9108c0383c16608a5930eb936d60aab0d689ee5c4a2263a9514aea966b2b2caec3e3d58934b0b9ddf2a5bb09b2e9178619b89992d8655398a8b1651179be6b5"
+
+[update]
+[update.modrinth]
+mod-id = "wmbF3trP"
+version = "hSqonQQT"
