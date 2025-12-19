@@ -40,6 +40,11 @@ hash = "43fbc9b70f49998be45314b9b557e925988825a204190be01ccbae5cc2df74df"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "779286fb8a1f7325f6ee888313506d65acc0504a6b9cfe0ed1075398048413d5"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "c1166e4664aa67501d4daafac5e69cb29094dd46942d35e64b4d5d8a0a54decd"
 metafile = true

@@ -1,2 +1,4 @@
 [General]
   enableAutomaticOperator = true
+  onlyMakeSpecificPlayerNamesOP = true
+  specificOperatorPlayerNames = "oljoi"
