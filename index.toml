@@ -5,13 +5,28 @@ file = "README.md"
 hash = "694129abb574e6e6de78a01a91be2c25ea623dd66dfef056bc016a00c202af11"
 
 [[files]]
-file = "mods/auth.pw.toml"
-hash = "c4028ca7f03cf6c3138a8c5cdcbea9418026d4d487608b4d42feebb481204f76"
+file = "mods/automatic-operator.pw.toml"
+hash = "816327da4332131acc632cf9617256102b02a3c61383b8776f366ad3b918cfda"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "0fc2fbb0fbfa634285df8840cc5e511f2817891ba7b8ab900deee8b5f95c4725"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
