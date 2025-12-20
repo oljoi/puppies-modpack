@@ -1,0 +1,13 @@
+name = "Sepals"
+filename = "Sepals-fabric-1.0.30-fix.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hH1OHXZD/versions/lGY41iwy/Sepals-fabric-1.0.30-fix.jar"
+hash-format = "sha512"
+hash = "5e9976f403901b3ea0ffd79a4859aa4b43f9b9ff821d5264b971ca53e11f7d38dfa6959c1c57db47908b8875dabd8435785777488136a9ec2364c856f7b9cd2f"
+
+[update]
+[update.modrinth]
+mod-id = "hH1OHXZD"
+version = "lGY41iwy"

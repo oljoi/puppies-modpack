@@ -25,6 +25,11 @@ hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
 
 [[files]]
+file = "mods/daisy.pw.toml"
+hash = "26d973f420a36dc3943e672578a5e16a7058dbbd212e47b643b963fb1c60d852"
+metafile = true
+
+[[files]]
 file = "mods/easywhitelist.pw.toml"
 hash = "0fc2fbb0fbfa634285df8840cc5e511f2817891ba7b8ab900deee8b5f95c4725"
 metafile = true
@@ -75,8 +80,18 @@ hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
+file = "mods/sepals.pw.toml"
+hash = "7905f2f8154005a5fcd6194a40667a9098807248b6d3166bc7285d5eadf65bf5"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "779286fb8a1f7325f6ee888313506d65acc0504a6b9cfe0ed1075398048413d5"
+metafile = true
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "b7027eeb78328a853a9883137597d31937dd662bdab09cf1742669c8621342af"
 metafile = true
 
 [[files]]
