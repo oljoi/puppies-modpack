@@ -35,6 +35,11 @@ hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "61aa9b01e640b442a552057046f914e11aefa5b24ebbeb0a5bde1f310c769a91"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "b8b925bbefd017018fa7e29feb14130698b5a9b977383e2a7b1a3386fb45ff55"
 metafile = true
