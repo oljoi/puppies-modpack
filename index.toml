@@ -5,6 +5,11 @@ file = "README.md"
 hash = "694129abb574e6e6de78a01a91be2c25ea623dd66dfef056bc016a00c202af11"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+metafile = true
+
+[[files]]
 file = "mods/automatic-operator.pw.toml"
 hash = "816327da4332131acc632cf9617256102b02a3c61383b8776f366ad3b918cfda"
 metafile = true
