@@ -50,6 +50,11 @@ hash = "e9ac87726db4d37ee8f75c811791e115a581bc9ecc92f07ff8011385d45f87a2"
 metafile = true
 
 [[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "c1906aafc5af2f95945d31f840263f3490efe781461fbcee33df3f3a68c431b3"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "7a1d18504e615e902ed766ad9fb4898bce1009073a8674d33d59118061d9ccdf"
 metafile = true
@@ -62,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/recipecooldown.pw.toml"
 hash = "43fbc9b70f49998be45314b9b557e925988825a204190be01ccbae5cc2df74df"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
