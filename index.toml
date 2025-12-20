@@ -15,6 +15,11 @@ hash = "816327da4332131acc632cf9617256102b02a3c61383b8776f366ad3b918cfda"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "1b6acd374e376f9dee939184a228eb8b1a8fd1abb5074a8a6cff2473712aeadb"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
@@ -37,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "61aa9b01e640b442a552057046f914e11aefa5b24ebbeb0a5bde1f310c769a91"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "e9ac87726db4d37ee8f75c811791e115a581bc9ecc92f07ff8011385d45f87a2"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "7a1d18504e615e902ed766ad9fb4898bce1009073a8674d33d59118061d9ccdf"
 metafile = true
 
 [[files]]
